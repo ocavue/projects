@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.28618add3245357a1a1e8bee50473007.js"
+  "precache-manifest.d88368b92e5feeb5fe998696e2b0f385.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rino"});
